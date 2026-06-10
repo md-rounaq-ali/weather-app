@@ -30,13 +30,13 @@ dev_dependencies:
 flutter_launcher_icons:
   android: true
   ios: true
-  image_path: "C:/Users/Md Rounaq Ali/.gemini/antigravity/brain/8f8e7e0a-0c96-4981-a480-f38ef809012c/weather_app_icon_1778919629674.png"
+  image_path: "assets/logo.png"
 
 flutter_native_splash:
   color: "#0F172A"
-  image: "C:/Users/Md Rounaq Ali/.gemini/antigravity/brain/8f8e7e0a-0c96-4981-a480-f38ef809012c/weather_app_icon_1778919629674.png"
+  image: "assets/logo.png"
   android_12:
-    image: "C:/Users/Md Rounaq Ali/.gemini/antigravity/brain/8f8e7e0a-0c96-4981-a480-f38ef809012c/weather_app_icon_1778919629674.png"
+    image: "assets/logo.png"
     color: "#0F172A"
 
 flutter:
